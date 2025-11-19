@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/loicg191-G/osticket-prereqs)
+- <b>Microsoft Azure</b>
+  - [Domain Controller Deployment](https://github.com/loicg191-G/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/loicg191-G/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/loicg191-G/ticket-lifecycle)
 - <b>Microsoft Azure</b>
