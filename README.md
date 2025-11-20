@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Domain Controller Deployment](https://github.com/loicg191-G/osticket-prereqs)
+  - [Domain Controller Deployment](https://github.com/loicg191-G/Microsoft-Azure.git)
   - [osTicket: Post-Installation Configuration](https://github.com/loicg191-G/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/loicg191-G/ticket-lifecycle)
 - <b>Microsoft Azure</b>
