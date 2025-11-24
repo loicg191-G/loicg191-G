@@ -8,7 +8,7 @@
   - [Security Groups and Permissions](https://github.com/loicg191-G/Network-File-Shares-and-Permissions)
   - [Password Management](https://github.com/loicg191-G/Password-management)
   - [Account Lockout](https://github.com/loicg191-G/Account-Lockout)
-  - [Observing Logs]()
+  - [Observing Logs](https://github.com/loicg191-G/Observing-Logs)
 
 <h2>🤳Connect with me:</h2>
 
