@@ -6,7 +6,7 @@
   - [Domain Controller Deployment](https://github.com/loicg191-G/Microsoft-Azure.git)
 - <b>Domain Controller and Active Directory Management</b>
   - [Security Groups and Permissions](https://github.com/loicg191-G/Network-File-Shares-and-Permissions)
-  - [Password Management].(https://github.com/loicg191-G/Password-management)
+  - [Password Management](https://github.com/loicg191-G/Password-management)
   - [Enabling/Disabling Accounts]
 
 <h2>🤳Connect with me:</h2>
