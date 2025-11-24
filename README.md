@@ -7,7 +7,7 @@
 - <b>Domain Controller and Active Directory Management</b>
   - [Security Groups and Permissions](https://github.com/loicg191-G/Network-File-Shares-and-Permissions)
   - [Password Management](https://github.com/loicg191-G/Password-management)
-  - [Account Lockout]()
+  - [Account Lockout](https://github.com/loicg191-G/Account-Lockout)
   - [Enabling/Disabling Accounts]()
 
 <h2>🤳Connect with me:</h2>
