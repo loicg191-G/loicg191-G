@@ -1,4 +1,4 @@
-<h1>Hi, I'm Loic, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Loic, an <a href="www.linkedin.com/in/loic-gbogou-68b513183">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -12,4 +12,4 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Loic | LinkedIn" width="22px" src="www.linkedin.com/in/loic-gbogou-68b513183" />][linkedin]
+[<img align="left" alt="Loic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
