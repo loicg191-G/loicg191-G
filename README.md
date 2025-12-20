@@ -12,4 +12,4 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://www.linkedin.com/in/loic-gbogou-68b513183/)" />][linkedin]
+[<img align="left" alt="Loic | LinkedIn" width="22px" src="www.linkedin.com/in/loic-gbogou-68b513183" />][linkedin]
