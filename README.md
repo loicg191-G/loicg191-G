@@ -1,4 +1,4 @@
-<h1>Hi, I'm Loic, an <a href="www.linkedin.com/in/loic-gbogou-68b513183">IT Professional</a>☺</h1>
+<h1>Hi, I'm Loic (Jonathan), an <a href="www.linkedin.com/in/loic-gbogou-68b513183">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
