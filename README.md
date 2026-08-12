@@ -9,7 +9,7 @@
   - [Password Management](https://github.com/loicg191-G/Password-management)
   - [Account Lockout](https://github.com/loicg191-G/Account-Lockout)
   - [Observing Logs](https://github.com/loicg191-G/Observing-Logs)
-
+  - [Resolving DNS Issues](https://github.com/loicg191-G/Solving-DNS-issues)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Loic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
